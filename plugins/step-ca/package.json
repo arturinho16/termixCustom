@@ -10,8 +10,8 @@
     "validate": "termix-plugin validate"
   },
   "dependencies": {
-    "lucide-react": "^1.33.0",
-    "redis": "^6.2.1"
+    "lucide-react": "^1.61.0",
+    "redis": "^6.3.0"
   },
   "devDependencies": {
     "@termix/plugin-sdk": "^1.0.0",
